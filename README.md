@@ -1,8 +1,3 @@
-Hello MAIN
+Hello, I am B
 
-https://github.com/iphearum/learn-git.git
-
-login
-
-
-git@github.com:iphearum/learn-git.git
+Dept: GIC
